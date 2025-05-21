@@ -19,4 +19,9 @@ public class VoitureDecorator extends JouetDecorator {
     public void drive() {
 
     }
+
+    @Override
+    public void read() {
+
+    }
 }

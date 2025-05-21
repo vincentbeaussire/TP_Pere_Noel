@@ -15,4 +15,9 @@ public class PlainJouet implements Jouet {
     public void drive() {
 
     }
+
+    @Override
+    public void read() {
+
+    }
 }

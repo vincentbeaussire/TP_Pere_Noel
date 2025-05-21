@@ -1,14 +1,13 @@
 package org.example.factory;
 
-public class Voiture implements JouetF {
-
+public class Livre implements JouetF{
     @Override
     public void drive() {
-        System.out.println("Je suis une voiture");
+
     }
 
     @Override
     public void read() {
-
+        System.out.println("Je suis un livre");
     }
 }

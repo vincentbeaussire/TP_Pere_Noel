@@ -6,4 +6,5 @@ public interface Jouet {
     double getCost();
 
     void drive();
+    void read();
 }
